@@ -1,0 +1,11 @@
+.doan-van {
+  /* Cú pháp short hand */
+  border: 1px solid red;
+  /* Cú pháp long hand */
+  /* Độ dày của viền */
+  border-width: 1px;
+  /* Kiểu Viền */
+  border-style: solid;
+  /* Màu viền */
+  border-color: red;
+}
